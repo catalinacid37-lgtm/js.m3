@@ -17,7 +17,7 @@ if (
     n1 < 1 ||  n1 > 7 ||  
     n2 < 1 ||  n2 > 7 ||
     n3 < 1 ||  n3 > 7 
-   ){mensaje = " las notas deben ser números entre 1.0 y 7.00";
+   ){mensaje = " las notas deben ser números entre 1.0 y 7.0";
 
 // las condiciones
    
